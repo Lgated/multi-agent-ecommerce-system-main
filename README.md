@@ -1,6 +1,6 @@
 # 🛒 多Agent电商推荐与营销系统
 
-> **面向小白的企业级 AI Agent 项目** — 从零理解 Multi-Agent 架构，配套三语言代码 + 八股文 + 简历模板 + STAR面试话术，找工作全流程覆盖。
+> **企业级 AI Agent 项目** — 从零理解 Multi-Agent 架构
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)](python/)
 [![Java](https://img.shields.io/badge/Java-17%2B-orange?logo=java)](java/)
